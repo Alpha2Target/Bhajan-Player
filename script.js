@@ -17,7 +17,7 @@ document.addEventListener('DOMContentLoaded', function () {
     let currentIndex = 0;
     let songs = [
       { name: 'Govind Bolo', file: 'songs/GBHGB.mp3', image: 'images/1.jpeg' },
-      { name: 'Shri Krishna Flute', file: 'songs/Krishna Flute.mp3', image: 'images/2.jpeg' },
+      { name: 'Shri Krishna Flute', file: 'songs/Krishna FLute.mp3', image: 'images/2.jpeg' },
       { name: 'Radhe Shyam', file: 'songs/Radhe Shyam.mp3', image: 'images/3.jpeg' },
       { name: 'Radhe Radhe Bol Mann', file: 'songs/RRbolMana.mp3', image: 'images/8.jpeg' },
       { name: 'Barsane Vali Radhe', file: 'songs/RRBWR.mp3', image: 'images/4.jpeg' },
